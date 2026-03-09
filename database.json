@@ -1,0 +1,46 @@
+{
+  "Chinese": [
+    { "file": "audio_samples/en/05.mp3", "original_lang": "English", "true_text": "I forgot to bring my jacket, and now I am freezing.", "fake_text": "哎 佛搞特 图 不灵 迈 夹克特，安德 闹 哎 挨木 弗瑞金。" },
+    { "file": "audio_samples/en/06.mp3", "original_lang": "English", "true_text": "To be honest, I really didn't expect the presentation to go that well.", "fake_text": "兔 逼 奥尼斯特，爱 瑞丽 滴等特 依次派克特 泽 普瑞增特神 兔 狗 扎特 威尔。" },
+    { "file": "audio_samples/ja/09.mp3", "original_lang": "Japanese", "true_text": "今日は天気がいいから、どこかへ出かけたいですね。", "fake_text": "抠哇 填其嘎 依卡拉，多抠卡 嘿 得卡开 太呆死 内。" },
+    { "file": "audio_samples/ja/10.mp3", "original_lang": "Japanese", "true_text": "明日は日曜日だから、朝早く起きなくてもいいし。", "fake_text": "阿西达瓦 尼其哟笔 大卡拉，阿萨 哈亚库 哦奇那库贴莫 依稀。" },
+    { "file": "audio_samples/ko/11.mp3", "original_lang": "Korean", "true_text": "내일은 친구를 만나기로 해서, 일찍 일어나야 합니다.", "fake_text": "内衣冷 亲故日 满那给咯 嘿搜，衣吉 依柔那亚 哈密达。" },
+    { "file": "audio_samples/ko/12.mp3", "original_lang": "Korean", "true_text": "어제 밤에 늦게까지 일하느라, 잠을 거의 못 자서 피곤해요。", "fake_text": "哦杰 巴美 讷给嘎吉 伊拉讷拉，扎姆 勾衣 某 扎搜 皮工嘿哟。" }
+  ],
+  "English": [
+    { "file": "audio_samples/hi/01.mp3", "original_lang": "Hindi", "true_text": "आज मौसम बहुत अच्छा है, इसलिए मैं पार्क जा रहा हूँ।", "fake_text": "Ah J moss some bad hot ah chai, is Lee a man park jar rah hoon." },
+    { "file": "audio_samples/hi/02.mp3", "original_lang": "Hindi", "true_text": "मुझे अपने खाली समय में किताबें पढ़ना और संगीत सुनना बहुत पसंद है।", "fake_text": "Moo Jay up nay car lee sum may mean key tar bay pad nah our sun geet soon nah ba hoot pass and hi." },
+    { "file": "audio_samples/es/03.mp3", "original_lang": "Spanish", "true_text": "Quería salir a caminar, pero empezó a llover muy fuerte.", "fake_text": "Carry ah Sally rah come in are, pear oh aim pay so ah yo bear moo ee foo air tay." },
+    { "file": "audio_samples/es/04.mp3", "original_lang": "Spanish", "true_text": "La verdad es que no tenía muchas ganas de salir esta noche.", "fake_text": "La bear dad ace K no ten E ah moo chas gah nas day Sally ray star no chain." },
+    { "file": "audio_samples/zh/07.mp3", "original_lang": "Chinese", "true_text": "我本来想早点睡觉，结果又刷了一整晚手机。", "fake_text": "Wall bun lie shawn zao di-en shway jow, jee-eh guo yo shwa luh ee jung one show jee." },
+    { "file": "audio_samples/zh/08.mp3", "original_lang": "Chinese", "true_text": "今天外面的天气真不错，我们本来打算去海边散步。", "fake_text": "Gin tee-en why me-en duh tee-en chee jen boo ts-woah, wall men bun lie dah swan chew hi bee-en sun boo." },
+    { "file": "audio_samples/ja/09.mp3", "original_lang": "Japanese", "true_text": "今日は天気がいいから、どこかへ出かけたいですね。", "fake_text": "Kyo wah ten key gah ee car rah, dough co car hair day car K tie death nay." },
+    { "file": "audio_samples/ja/10.mp3", "original_lang": "Japanese", "true_text": "明日は日曜日だから、朝早く起きなくてもいいし。", "fake_text": "Ah she tar wah knee chew yo bee duh car rah, ah sah hi ya coo oh key nah coo tay moe ee she." }
+  ],
+  "Spanish": [
+    { "file": "audio_samples/hi/01.mp3", "original_lang": "Hindi", "true_text": "आज मौसम बहुत अच्छा है, इसलिए मैं पार्क जा रहा हूँ।", "fake_text": "Ay mo son va jota chae, isla el pan ya rajon." },
+    { "file": "audio_samples/hi/02.mp3", "original_lang": "Hindi", "true_text": "मुझे अपने खाली समय में किताबें पढ़ना और संगीत सुनना बहुत पसंद है。", "fake_text": "Mu ye a pe ne ca li sa mai min qui ta be pan na a un san gui su na ba ju pa san ay." },
+    { "file": "audio_samples/en/05.mp3", "original_lang": "English", "true_text": "I forgot to bring my jacket, and now I am freezing.", "fake_text": "Ay for gato brin mai ya que, en nau ay am fri sin." },
+    { "file": "audio_samples/en/06.mp3", "original_lang": "English", "true_text": "To be honest, I really didn't expect the presentation to go that well.", "fake_text": "Tu bi o nest, ay ri li di den ex pe da pre sen tei xon tu go da huel." }
+  ],
+  "Hindi": [
+    { "file": "audio_samples/es/03.mp3", "original_lang": "Spanish", "true_text": "Quería salir a caminar, pero empezó a llover muy fuerte.", "fake_text": "केरिया सालीर आ कामिनार, पेरो एम्पेसो आ योवेर मुई फुएर्ते।" },
+    { "file": "audio_samples/es/04.mp3", "original_lang": "Spanish", "true_text": "La verdad es que no tenía muchas ganas de salir esta noche.", "fake_text": "ला बेरदाद एस के नो तेनिया मुचास गानास दे साले रेस्ता नोचे。" },
+    { "file": "audio_samples/en/05.mp3", "original_lang": "English", "true_text": "I forgot to bring my jacket, and now I am freezing.", "fake_text": "आय फ़ॉर गॉट टू ब रिंग माय जय केट, ऐन नाव आय एम फ़री ज़िंग।" },
+    { "file": "audio_samples/en/06.mp3", "original_lang": "English", "true_text": "To be honest, I really didn't expect the presentation to go that well.", "fake_text": "टू बी ऑनेस्ट, आय री ली डी डेंट एक्स पेक्ट द प्री ज़ेन टे शन टू गो दैट वेल।" }
+  ],
+  "Japanese": [
+    { "file": "audio_samples/zh/07.mp3", "original_lang": "Chinese", "true_text": "我本来想早点睡觉，结果又刷了一整晚手机。", "fake_text": "ウォー ベン ライ シャン ザオ ディエン シュイ ジャオ、ジエ グオ ヨウ シュア ラ イー ジェン ワン ショウ ジー。" },
+    { "file": "audio_samples/zh/08.mp3", "original_lang": "Chinese", "true_text": "今天外面的天气真不错，我们本来打算去海边散步。", "fake_text": "ジン ティエン ワイ ミエン ドゥ ティエン チー ジェン ブー ツォ、ウォ メン ベン ライ ダースワン チュー ハイ ビエン サン ブー。" },
+    { "file": "audio_samples/ko/11.mp3", "original_lang": "Korean", "true_text": "내일은 친구를 만나기로 해서, 일찍 일어나야 합니다.", "fake_text": "ネイルン チングルル マンナギロ ヘソ、イルチク イロナヤ ハムニダ。" },
+    { "file": "audio_samples/ko/12.mp3", "original_lang": "Korean", "true_text": "어제 밤에 늦게까지 일하느라, 잠을 거의 못 자서 피곤해요。", "fake_text": "オジェ パメ ヌッケカジ イラヌラ、ジャムル ゴイ モッ ジャソ ピゴンヘヨ。" },
+    { "file": "audio_samples/en/05.mp3", "original_lang": "English", "true_text": "I forgot to bring my jacket, and now I am freezing.", "fake_text": "アイ フォーゴット トゥ ブリング マイ ジャケット、アンド ナウ アイ アム フリージング" },
+    { "file": "audio_samples/en/06.mp3", "original_lang": "English", "true_text": "To be honest, I really didn't expect the presentation to go that well.", "fake_text": "トゥー ビー オネスト、アイ リーリー ディドゥント エクスペクト ザ プレゼンテーション トゥー ゴー ザット ウェル。" }
+  ],
+  "Korean": [
+    { "file": "audio_samples/zh/07.mp3", "original_lang": "Chinese", "true_text": "我本来想早点睡觉，结果又刷了一整晚手机。", "fake_text": "워 번 라이 샹 자오 디엔 슈이 쟈오, 지에 궈 요우 슈아 러 이 정 완 쇼우 지." },
+    { "file": "audio_samples/zh/08.mp3", "original_lang": "Chinese", "true_text": "今天外面的天气真不错，我们本来打算去海边散步。", "fake_text": "진 티엔 와이 미엔 더 티엔 치 쩐 부 춰, 워 먼 번 라이 다 쏸 취 하이 삐엔 싼 부." },
+    { "file": "audio_samples/ja/09.mp3", "original_lang": "Japanese", "true_text": "今日は天気がいいから、どこかへ出かけたいですね。", "fake_text": "교와 텐키가 이이카라, 도코카헤 데카케 타이 데스네." },
+    { "file": "audio_samples/ja/10.mp3", "original_lang": "Japanese", "true_text": "明日は日曜日だから、朝早く起きなくてもいいし。", "fake_text": "아시타와 니치요비 다카라, 아사 하야쿠 오키나쿠테모 이이시." }
+  ]
+}
