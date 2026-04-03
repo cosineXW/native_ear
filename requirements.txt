@@ -1,2 +1,5 @@
 streamlit
 openai-whisper
+torch
+numpy
+matplotlib

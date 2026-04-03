@@ -1,0 +1,74 @@
+{
+  "scenarios": {
+    "not_at_all__native_pronunciation": {
+      "emoji": "😶‍🌫️🏷️",
+      "en": "You don't speak this language. You didn't try to imitate it. You simply read syllables in your mother tongue. Yet the machine still assigned you a linguistic identity based on nothing but sound patterns. This is the core violence of machine listening: it doesn't care whether you understand — it only cares whether you sound right.",
+      "zh": "你完全不懂这门语言，也没有试图去模仿它。你只是用母语的发音读了一串音节。但机器仍然仅凭声音模式就给你贴上了一个语言身份。这就是机器听觉的核心暴力：它不在乎你是否理解，只在乎你听起来像不像。"
+    },
+    "not_at_all__unconsciously_leaned": {
+      "emoji": "🫣🧲",
+      "en": "You don't speak this language, but something in the sound pulled you toward it. This unconscious adjustment is what linguists call accommodation — and it's exactly what asylum seekers experience in LADO interviews. You adapted to please a listener you couldn't even see. The machine rewarded your compliance with a passport you never applied for.",
+      "zh": "你不懂这门语言，但声音中的某种东西把你往那个方向拉了。这种无意识的调整在语言学中叫“语言顺应”（accommodation）——这正是寻求庇护者在 LADO 面谈中的经历。你为了讨好一个你看不见的听者而调整了自己。机器用一本你从未申请过的护照奖励了你的顺从。"
+    },
+    "not_at_all__deliberately_imitated": {
+      "emoji": "🎭🤖",
+      "en": "You don't understand a word, but you tried your best to sound like you do. The machine may have believed you. This is the most unsettling scenario: a person with zero comprehension can pass a machine's language test through pure phonetic mimicry. If a machine can be fooled this easily, what does its judgment actually prove?",
+      "zh": "你一个字都不懂，但你尽力让自己听起来像懂的样子。机器可能相信了你。这是最令人不安的场景：一个完全不理解的人，可以通过纯粹的语音模仿通过机器的语言测试。如果机器这么容易被骗，它的判断到底证明了什么？"
+    },
+    "partially__native_pronunciation": {
+      "emoji": "🤐🫣",
+      "en": "You understood some of what you heard, but deliberately chose to read only in your native pronunciation. Your knowledge was there, but you suppressed it. The question is: did the machine detect the knowledge you were hiding, or did it only hear the accent you performed?",
+      "zh": "你听懂了一部分，但你故意只用母语发音来读。你的知识在那里，但你压制了它。问题是：机器是否检测到了你隐藏的知识，还是只听到了你表演出的口音？"
+    },
+    "partially__unconsciously_leaned": {
+      "emoji": "🫠💬",
+      "en": "You partially understand this language, and your reading naturally drifted toward it. Your partial knowledge leaked through, shaping your pronunciation without you fully controlling it. The machine heard this leakage. In LADO, this is precisely how analysts claim to detect 'authenticity' — by listening for involuntary traces of linguistic identity.",
+      "zh": "你部分听懂这门语言，你的朗读自然地向它靠拢了。你的部分知识泄露了出来，在你无法完全控制的情况下塑造了你的发音。机器听到了这种泄露。在 LADO 中，这正是分析师声称可以检测“真实性”的方式——通过寻找语言身份的无意识痕迹。"
+    },
+    "partially__deliberately_imitated": {
+      "emoji": "🎪🃏",
+      "en": "You have some understanding and actively tried to sound like a speaker of this language. The machine likely agreed with your performance. But here's the question the machine can't answer: are you a real speaker, or just a convincing actor? LADO faces this exact dilemma — and it has no solution.",
+      "zh": "你有一定的理解，并且积极地试图让自己听起来像这门语言的使用者。机器很可能认可了你的表演。但机器无法回答的问题是：你是真正的使用者，还是一个令人信服的演员？LADO 面临的正是这个困境——而它没有答案。"
+    },
+    "fully__native_pronunciation": {
+      "emoji": "🛂🚫",
+      "en": "You fully understand this language but chose to read everything in your native accent. You know the meaning behind every syllable, yet you deliberately sounded 'foreign.' If the machine classifies you as a non-speaker, it just denied a linguistic passport to someone who actually speaks the language. This is the flipside of LADO's failure: not only can it grant false passports, it can also revoke real ones.",
+      "zh": "你完全听懂这门语言，但你选择用母语口音来读所有内容。你知道每个音节背后的意义，但你故意让自己听起来像“外国人”。如果机器将你归类为非使用者，它就是拒绝了一个真正会说这门语言的人的语言护照。这是 LADO 失败的另一面：它不仅能发放假护照，还能撤销真护照。"
+    },
+    "fully__unconsciously_leaned": {
+      "emoji": "🪞🗣️",
+      "en": "You speak this language, and it naturally came through in your reading. No surprise in the machine's verdict — but consider this: if you sounded 'correct' because you actually understand, and someone else sounded equally 'correct' through pure mimicry, the machine would give you both the same passport. It cannot distinguish understanding from performance.",
+      "zh": "你会说这门语言，这在你的朗读中自然地体现出来了。机器的判定不令人意外——但请想想：如果你因为真正理解而听起来“正确”，而另一个人通过纯粹模仿也听起来同样“正确”，机器会给你们俩发同样的护照。它无法区分理解和表演。"
+    },
+    "fully__deliberately_imitated": {
+      "emoji": "✅🎯",
+      "en": "You understand the language and deliberately performed it. The machine confirmed what you already know about yourself. This is the control group — the expected result. But the fact that scenarios like 'zero comprehension + deliberate mimicry' can produce nearly identical machine outputs is the whole point of this project: the machine treats comprehension and mimicry as the same thing, because it can only hear surfaces.",
+      "zh": "你懂这门语言，并且刻意表演了它。机器确认了你已知的事实。这是对照组——预期结果。但问题在于：“完全不懂+刻意模仿”的场景可以产生几乎相同的机器输出——这就是这个项目的全部意义：机器把理解和模仿当作同一件事，因为它只能听到表面。"
+    }
+  },
+  "verdicts": {
+    "zero": {
+      "emoji": "🛂🚫",
+      "en": "The machine didn't even recognize the target language in your voice. Your accent, your mother tongue, your identity — they overwrote everything. In LADO terms: passport denied. But ask yourself — does failing a machine's ear prove you don't belong?",
+      "zh": "机器在你的声音里完全没有听到目标语言。你的口音、你的母语、你的身份——覆盖了一切。用 LADO 的话说：护照被拒。但是，别让一台机器替你决定你该不该属于那个地方。"
+    },
+    "low": {
+      "emoji": "🛂⚠️",
+      "en": "The machine caught faint traces of the target language, but not enough to be convinced. You're in limbo — not rejected, not accepted. This gray zone is where LADO's real violence operates: your fate depends on whether the machine's threshold happens to fall above or below your score.",
+      "zh": "机器在你的声音中捕捉到了目标语言的微弱痕迹，但不足以被说服。你处于灰色地带——没被拒绝，也没被接受。这个模糊区间正是 LADO 真正施暴的地方：你的命运取决于机器的阈值恰好落在你的分数之上还是之下。"
+    },
+    "mid": {
+      "emoji": "🛂📋",
+      "en": "The machine is fairly convinced you speak this language. Your transcription partially matches the original. But remember: this score measures how you sound, not what you know. A parrot could score the same. The machine has issued you a provisional passport based on acoustic evidence alone.",
+      "zh": "机器相当确信你会说这门语言。你的转写与原文部分吻合。但记住：这个分数衡量的是你听起来怎么样，而不是你知道什么。一只鹦鹉也能得到同样的分数。机器仅凭声学证据就给你签发了一本临时护照。"
+    },
+    "high": {
+      "emoji": "🛂✅",
+      "en": "The machine fully believes you are a speaker of this language. Your voice, your rhythm, your phonemes — they all passed inspection. Passport granted. But the machine never asked you a single question about meaning. It listened to your surface, not your depth. This is exactly how LADO works: sound right, and you're in. Sound wrong, and you're out. Understanding is irrelevant.",
+      "zh": "机器完全相信你是这门语言的使用者。你的声音、你的节奏、你的音素——全部通过了检验。护照签发。但机器从未问过你一个关于意义的问题。它听的是你的表面，不是你的深度。这正是 LADO 的运作方式：听起来对，你就通过；听起来不对，你就出局。理解与否，无关紧要。"
+    }
+  },
+  "lang_map": {
+    "Chinese": "zh"
+  }
+}
