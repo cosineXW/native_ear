@@ -50,7 +50,7 @@
     "zero": {
       "emoji": "🛂🚫",
       "en": "The machine didn't even recognize the target language in your voice. Your accent, your mother tongue, your identity — they overwrote everything. In LADO terms: passport denied. But ask yourself — does failing a machine's ear prove you don't belong?",
-      "zh": "机器在你的声音里完全没有听到目标语言。你的口音、你的母语、你的身份——覆盖了一切。用 LADO 的话说：护照被拒。但是，别让一台机器替你决定你该不该属于那个地方。"
+      "zh": "机器在你的声音里完全没有听到目标语言。你的口音、你的母语、你的身份——盖过了一切。用 LADO 的话说：护照被拒。但是，别让一台机器替你决定你该不该属于那个地方。"
     },
     "low": {
       "emoji": "🛂⚠️",
